@@ -2,7 +2,7 @@
 #include <iomanip>
 #include <string>
 
-// Константы для комиссий и курсов валют
+
 const double COMMISSION_RATE = 0.05;
 const double RATE_USD = 0.012;
 const double RATE_EUR = 0.011;
